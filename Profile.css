@@ -1,0 +1,17 @@
+.container{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.main{
+    height:100vh;
+    width:100%;
+    max-width:100vh;
+    margin-top:8px;
+    background:aquamarine;
+    justify-content:center;
+    box-shadow:10px 10px 12px;
+    color: blueviolet;
+    font-size:1.30em;
+}
